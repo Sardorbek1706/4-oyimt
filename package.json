@@ -1,0 +1,11 @@
+{
+  "name": "4-oyimtihon-root",
+  "private": true,
+  "scripts": {
+    "install": "cd 4-oyimtihon && npm install",
+    "dev": "cd 4-oyimtihon && npm run dev",
+    "start": "cd 4-oyimtihon && npm run start",
+    "build": "cd 4-oyimtihon && npm run build",
+    "test": "cd 4-oyimtihon && npm run test"
+  }
+}
